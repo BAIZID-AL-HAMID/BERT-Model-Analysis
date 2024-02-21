@@ -5,7 +5,6 @@ This repository contains the code and report for a project aimed at investigatin
 
 ### Key Components:
 - Jupyter Notebooks: Includes Python notebooks where the fine-tuning experiments were conducted using BERT.
-- Data Files: Contains the datasets used for training and evaluation.
 - Report: A comprehensive report summarizing the project's objectives, methodologies, experimental setup, results, and   conclusions.
 
 ### Findings:
