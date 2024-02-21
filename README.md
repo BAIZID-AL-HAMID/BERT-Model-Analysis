@@ -14,4 +14,5 @@ This repository contains the code and report for a project aimed at investigatin
 - Recommendations for fine-tuning BERT models for scientific abstract classification tasks based on experimental results.
 
 ### Contributors:
-[Baizid Al Hamid]:[https://github.com/BAIZID-AL-HAMID]
+
+#### [Baizid Al Hamid]:[https://github.com/BAIZID-AL-HAMID]
