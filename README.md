@@ -13,6 +13,3 @@ This repository contains the code and report for a project aimed at investigatin
 - Insights into the effectiveness of freezing specific layers during fine-tuning.
 - Recommendations for fine-tuning BERT models for scientific abstract classification tasks based on experimental results.
 
-### Contributors:
-
-#### [Baizid Al Hamid]:[https://github.com/BAIZID-AL-HAMID]
